@@ -1,4 +1,4 @@
-# Official Jenkins Docker image
+# Adaptions of the Official Jenkins Docker image, so that Ubuntu is used as basis
 
 The Jenkins Continuous Integration and Delivery server.
 
